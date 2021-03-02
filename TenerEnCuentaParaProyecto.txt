@@ -1,0 +1,14 @@
+Compras para proyecto:
+
+Arduino mega
+Sensor DHT11
+Pantalla LCD 1602A
+Protoboard 
+Resistencias
+
+Ideas para problema a solucionar:
+
+Seguimiento y control de temperatura y humedad (puede ser para una encubadora)
+
+la idea es que se pueda ver en tiempo real el seguimiento de la temperatura y humedad por una pantalla fisica o
+una página web (Si es una página web el dispositivo tendria que estar conectado a un computador)
